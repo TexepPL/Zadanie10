@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+.green {
+    background-color: rgb(193, 255, 194);
+}
+
+.blue {
+    background-color: lightskyblue;
+}
+
+table#table1 {
+    width: 40%;
+    float: left;
+    table-layout: fixed;
+}
+
+table#table2 {
+    width: 40%;
+    float: right;
+    table-layout: fixed;
+}
